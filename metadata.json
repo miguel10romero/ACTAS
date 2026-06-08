@@ -1,0 +1,6 @@
+{
+  "name": "Visualizador de Google Sheets",
+  "description": "Aplicación moderna y responsive conectada a Google Sheets con vista de tabla avanzada y dashboard interactivo de gráficas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
